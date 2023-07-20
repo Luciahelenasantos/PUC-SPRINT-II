@@ -1,2 +1,2 @@
-# PUC-SPRINT-II
-Trabalho relativo ao Sprint II
+# PUC-SPRINT-II - Parte A
+O Trabalho consiste no treinamento de um modelo de Classificação utilizando método de aprendizado profundo de Machine Learning, que realize predições para o Índice de Qualidade do Ar, onde levando-se em consideração as medidas dos poluentes: Dióxido de Nitrogênio (NO2) medido em µg/m3, Monóxido de Carbono (CO) medido em ppm, Monóxido de Nitrogênio (NO) medido em µg/m3, Ozônio (O3) medido em µg/m3 e Material Particulado 2.5 (PM2.5) medido em µg/m3, seja possível classificar o IQA como sendo: Good - BOM, Moderate - MODERADO, Unhealthy - POUCO SAUDÁVEL, Very Unhealthy - MUITO PREJUDICIAL À SAÚDE, Unhealthy for Sensitive Groups - NÃO SAUDÁVEL PARA GRUPOS SENSÍVEIS e Hazardous - PERIGOSO 
